@@ -10,7 +10,10 @@ N/A
 
 Usage
 
-The webpage has no use other than to demonstrate  the use of semantic HTML and ALT tags, used to Search Engine Optomise the webpage.
+The webpage has no use other than to demonstrate  the use of semantic HTML and ALT tags, used to Search Engine Optimise the webpage.
+https://kevmcgowan.github.io/challenge_01/
+
+
 
 Credits
 
