@@ -7,7 +7,8 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*Replaced all <div> tags with semantic tags to improve website SOE, 
+<alt> tags have been added to aid impaired users in identifing the hyper-links within the header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +24,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Changed the <div> tags to <nav> tags to maintain the formatting within the header*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +50,8 @@ a {
 p {
     font-size: 16px;
 }
-
+/* <div> tags changed to <main> tags
+<alt> tags added to discribe the <main> website piture*/
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +76,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* All the benefit <div> tags changed to <aside> tags, all images have been tagged with the 
+<alt> tags to improve screen readers and other impaired user technologies*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -187,7 +190,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* The footer tags have been encapsulated within <small> tags.*/
 .footer {
     padding: 30px;
     clear: both;
